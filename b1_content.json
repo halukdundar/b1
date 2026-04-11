@@ -26,7 +26,20 @@
     {"q": "Es hängt ___ dem Wetter ab.", "tr": "Hava durumuna bağlı.", "o": ["von", "an", "bei", "auf"], "c": 0},
     {"q": "Ich denke oft ___ meine Familie.", "tr": "Sık sık ailemi düşünürüm.", "o": ["an", "auf", "über", "nach"], "c": 0},
     {"q": "Wer passt ___ die Kinder auf?", "tr": "Çocuklara kim bakıyor?", "o": ["auf", "an", "um", "für"], "c": 0},
-    {"q": "İch möchte dich ___ Geburtstag einladen.", "tr": "Seni yaş gününe davet etmek istiyorum.", "o": ["zum", "am", "im", "für"], "c": 0}
+    {"q": "İch möchte dich ___ Geburtstag einladen.", "tr": "Seni yaş gününe davet etmek istiyorum.", "o": ["zum", "am", "im", "für"], "c": 0},
+    {"q": "Er ist ___ dem Fahrrad gekommen.", "tr": "O bisikletle geldi.", "o": ["mit", "bei", "von", "zu"], "c": 0},
+    {"q": "Ich interessiere mich ___ Politik.", "tr": "Politikayla ilgileniyorum.", "o": ["für", "um", "an", "auf"], "c": 0},
+    {"q": "Wir hoffen ___ gutes Wetter.", "tr": "Hava iyi olur diye umuyoruz.", "o": ["auf", "für", "an", "um"], "c": 0},
+    {"q": "Kannst du mir ___ der Arbeit helfen?", "tr": "İşte bana yardım edebilir misin?", "o": ["bei", "an", "für", "zu"], "c": 0},
+    {"q": "Ich bitte ___ Entschuldigung.", "tr": "Özür dilerim (Özür diliyorum).", "o": ["um", "für", "an", "auf"], "c": 0},
+    {"q": "Er leidet ___ einer Allergie.", "tr": "Bir alerjiden muzdarip.", "o": ["an", "unter", "von", "bei"], "c": 1},
+    {"q": "Wir freuen uns ___ das Geschenk.", "tr": "Hediye için seviniyoruz (geçmişte alınan).", "o": ["über", "auf", "für", "an"], "c": 0},
+    {"q": "Passt dieses Hemd ___ der Hose?", "tr": "Bu gömlek pantolona uyuyor mu?", "o": ["zu", "an", "bei", "für"], "c": 0},
+    {"q": "Wir müssen ___ die Umwelt achten.", "tr": "Çevreye dikkat etmeliyiz.", "o": ["auf", "für", "an", "um"], "c": 0},
+    {"q": "Hast du dich schon ___ den Kurs angemeldet?", "tr": "Kurs için kaydını yaptın mı?", "o": ["für", "zu", "bei", "an"], "c": 1},
+    {"q": "Ich träume ___ einem großen Haus.", "tr": "Büyük bir ev hayal ediyorum.", "o": ["von", "an", "über", "in"], "c": 0},
+    {"q": "Sie hat sich ___ ihren Chef beschwert.", "tr": "Patronun hakkında şikayet etti.", "o": ["über", "an", "bei", "für"], "c": 2},
+    {"q": "Ich danke dir ___ deine Hilfe.", "tr": "Yardımın için teşekkür ederim.", "o": ["für", "um", "an", "auf"], "c": 0}
   ],
   "vocab": [
     {"de": "beantragen", "tr": "başvurmak"},
@@ -57,7 +70,88 @@
     {"de": "übernehmen", "tr": "üstlenmek"},
     {"de": "die Voraussetzung", "tr": "önkoşul"},
     {"de": "der Vorteil", "tr": "avantaj"},
-    {"de": "der Nachteil", "tr": "dezavantaj"}
+    {"de": "der Nachteil", "tr": "dezavantaj"},
+    {"de": "die Gesellschaft", "tr": "toplum / şirket"},
+    {"de": "die Ausbildung", "tr": "eğitim / formasyon"},
+    {"de": "der Vertrag", "tr": "sözleşme"},
+    {"de": "bestätigen", "tr": "onaylamak"},
+    {"de": "die Versicherung", "tr": "sigorta"},
+    {"de": "der Bewerber", "tr": "başvuru sahibi"},
+    {"de": "die Bedingung", "tr": "koşul / şart"},
+    {"de": "bewerten", "tr": "değerlendirmek"},
+    {"de": "die Umgebung", "tr": "çevre / ortam"},
+    {"de": "erstellen", "tr": "oluşturmak"},
+    {"de": "die Unterlagen", "tr": "belgeler / evraklar"},
+    {"de": "der Auszubildende", "tr": "stajyer"},
+    {"de": "die Kündigung", "tr": "fesih / istifa"},
+    {"de": "die Gehaltserhöhung", "tr": "maaş zammı"},
+    {"de": "die Fortbildung", "tr": "ileri eğitim"},
+    {"de": "der Arbeitgeber", "tr": "işveren"},
+    {"de": "die Arbeitslosigkeit", "tr": "işsizlik"},
+    {"de": "nachweisen", "tr": "kanıtlamak / belgelemek"},
+    {"de": "die Anforderung", "tr": "gereksinim"},
+    {"de": "der Durchschnitt", "tr": "ortalama"},
+    {"de": "das Einkommen", "tr": "gelir"},
+    {"de": "die Kompetenz", "tr": "yetkinlik"},
+    {"de": "flexibel", "tr": "esnek"},
+    {"de": "die Motivation", "tr": "motivasyon"},
+    {"de": "die Verantwortung", "tr": "sorumluluk"},
+    {"de": "das Zertifikat", "tr": "sertifika"},
+    {"de": "die Bewerbungsunterlagen", "tr": "başvuru dosyası"},
+    {"de": "die Überstunden", "tr": "fazla mesai"},
+    {"de": "die Teilzeit", "tr": "yarı zamanlı"},
+    {"de": "die Vollzeit", "tr": "tam zamanlı"},
+    {"de": "der Ruhestand", "tr": "emeklilik"},
+    {"de": "der Fachmann", "tr": "uzman"},
+    {"de": "das Vorstellungsgespräch", "tr": "iş görüşmesi"},
+    {"de": "die Zusammenarbeit", "tr": "işbirliği"},
+    {"de": "das Projekt", "tr": "proje"},
+    {"de": "die Leistung", "tr": "performans / başarı"},
+    {"de": "die Fortsetzung", "tr": "devam"},
+    {"de": "diskutieren", "tr": "tartışmak"},
+    {"de": "die Entscheidung", "tr": "karar"},
+    {"de": "empfehlen", "tr": "tavsiye etmek"},
+    {"de": "die Untersuchung", "tr": "araştırma / muayene"},
+    {"de": "das Ergebnis", "tr": "sonuç"},
+    {"de": "die Bedeutung", "tr": "anlam / önem"},
+    {"de": "die Wirkung", "tr": "etki"},
+    {"de": "der Zusammenhang", "tr": "bağlantı / ilişki"},
+    {"de": "die Vielfalt", "tr": "nerede / çeşitlilik"},
+    {"de": "fördern", "tr": "desteklemek / teşvik etmek"},
+    {"de": "die Qualität", "tr": "kalite"},
+    {"de": "die Quantität", "tr": "miktar"},
+    {"de": "realisieren", "tr": "gerçekleştirmek"},
+    {"de": "der Erfolg", "tr": "başarı"},
+    {"de": "die Krise", "tr": "kriz"},
+    {"de": "das Risiko", "tr": "risk"},
+    {"de": "die Lösung", "tr": "çözüm"},
+    {"de": "die Kapazität", "tr": "kapasite"},
+    {"de": "der Bedarf", "tr": "ihtiyaç"},
+    {"de": "investieren", "tr": "yatırım yapmak"},
+    {"de": "die Kosten", "tr": "maliyetler"},
+    {"de": "die Steuer", "tr": "vergi"},
+    {"de": "der Export", "tr": "ihracat"},
+    {"de": "der Import", "tr": "ithalat"},
+    {"de": "der Umsatz", "tr": "ciro"},
+    {"de": "der Gewinn", "tr": "kazanç / kâr"},
+    {"de": "der Verlust", "tr": "kayıp"},
+    {"de": "die Konkurrenz", "tr": "rekabet"},
+    {"de": "die Branche", "tr": "sektör"},
+    {"de": "die Abteilung", "tr": "departman / bölüm"},
+    {"de": "die Leitung", "tr": "yönetim / liderlik"},
+    {"de": "die Strategie", "tr": "strateji"},
+    {"de": "die Organisation", "tr": "organizasyon"},
+    {"de": "der Ablauf", "tr": "süreç / akış"},
+    {"de": "die Verbindung", "tr": "bağlantı"},
+    {"de": "das Netzwerk", "tr": "ağ"},
+    {"de": "die Innovation", "tr": "yenilik"},
+    {"de": "die Produktion", "tr": "üretim"},
+    {"de": "die Logistik", "tr": "lojistik"},
+    {"de": "das Marketing", "tr": "pazarlama"},
+    {"de": "die Buchhaltung", "tr": "muhasebe"},
+    {"de": "der Umweltschutz", "tr": "çevre koruma"},
+    {"de": "die Nachhaltigkeit", "tr": "sürdürülebilirlik"},
+    {"de": "die Erneuerung", "tr": "yenileme"}
   ],
   "stories": [
     {
@@ -83,6 +177,30 @@
       "text": "Letztes Wochenende bin ich in die Berge gefahren. Ich bin viel gewandert ve habe die frische Luft genossen. Am Abend habe ich in einer kleinen Hütte geschlafen. Es war sehr ruhig.",
       "translation": "Geçen hafta sonu dağlara gittim. Çok yürüyüş yaptım ve temiz havanın tadını çıkardım. Akşam küçük bir kulübede uyudum. Çok sakindi.",
       "questions": [{"q": "Ne yaptı?", "o": ["Yürüyüş", "Çalışma"], "c": 0}]
+    },
+    {
+      "title": "Die neue Wohnung",
+      "text": "Ich habe endlich eine neue Wohnung im Zentrum gefunden. Sie hat drei Zimmer ve einen Balkon. Gestern bin ich umgezogen. Meine Freunde haben mir geholfen, die Möbel zu tragen.",
+      "translation": "Nihayet merkezde yeni bir daire buldum. Üç odası ve bir balkonu var. Dün taşındım. Arkadaşlarım mobilyaları taşımama yardım ettiler.",
+      "questions": [{"q": "Wie viele Zimmer hat die Wohnung?", "o": ["Zwei", "Drei", "Vier"], "c": 1}]
+    },
+    {
+      "title": "Gesund leben",
+      "text": "Früher habe ich viel Fast Food gegessen. Jetzt koche ich jeden Tag gesund. Ich gehe dreimal pro Woche joggen ve trinke viel Wasser. Ich fühle mich viel fitter ve habe mehr Energie.",
+      "translation": "Eskiden çok fast food yerdim. Şimdi her gün sağlıklı yemek yapıyorum. Haftada üç kez koşuya gidiyorum ve bol su içiyorum. Kendimi çok daha zinde hissediyorum ve daha fazla enerjim var.",
+      "questions": [{"q": "Ne sıklıkta koşuyor?", "o": ["Hergün", "Haftada 3 kez", "Ayda bir"], "c": 1}]
+    },
+    {
+      "title": "Ein Besuch im Museum",
+      "text": "Gestern war ich in der Pinakothek. Es gab eine Sonderausstellung über moderne Kunst. Die Gemälde waren sehr beeindruckend. Danach bin ich in den Museumsshop gegangen ve habe Postkarten gekauft.",
+      "translation": "Dün Pinakothek'teydim. Modern sanat üzerine özel bir sergi vardı. Tablolar çok etkileyiciydi. Ondan sonra müze dükkanına gittim ve kartpostallar satın aldım.",
+      "questions": [{"q": "Müzeden ne aldı?", "o": ["Kitap", "Kartpostal", "Tablo"], "c": 1}]
+    },
+    {
+      "title": "Der Flohmarkt",
+      "text": "Am Samstag bin ich früh zum Flohmarkt gegangen. Es gab viele alte Sachen wie Bücher, Lampen ve Kleidung. Ich habe eine schöne alte Schreibmaschine gefunden ve sie für 20 Euro gekauft.",
+      "translation": "Cumartesi günü erkenden bit pazarına gittim. Kitaplar, lambalar ve kıyafetler gibi birçok eski eşya vardı. Güzel eski bir daktilo buldum ve onu 20 Euro'ya satın aldım.",
+      "questions": [{"q": "Daktilo kaç paraydı?", "o": ["10 Euro", "20 Euro", "30 Euro"], "c": 1}]
     }
   ],
   "aiScenarios": [
@@ -167,6 +285,66 @@
         {"role": "assistant", "de": "Wo möchten Sie hin?", "tr": "Nereye gitmek istersiniz?"},
         {"role": "user", "de": "Zum Hauptbahnhof, bitte. Ich habe es eilig.", "tr": "Merkez istasyona lütfen. Acelem var."},
         {"role": "assistant", "de": "Kein Problem, wir sind in 10 Minuten da.", "tr": "Sorun değil, 10 dakikaya oradayız."}
+      ]
+    },
+    {
+      "title": "Im Fitnessstudio",
+      "situation": "Üyelik ve antrenör görüşmesi.",
+      "messages": [
+        {"role": "assistant", "de": "Guten Tag! Möchten Sie ein Probetraining?", "tr": "İyi günler! Deneme antrenmanı ister misiniz?"},
+        {"role": "user", "de": "Ja, ich möchte mich fit halten. Was kostet die Mitgliedschaft?", "tr": "Evet, zinde kalmak istiyorum. Üyelik ne kadar?"},
+        {"role": "assistant", "de": "Wir haben ein Angebot für 30 Euro pro Monat.", "tr": "Ayda 30 Euro'luk bir teklifimiz var."},
+        {"role": "user", "de": "Das klingt gut. Gibt es auch einen Trainer?", "tr": "Kulağa hoş geliyor. Bir antrenör de var mı?"}
+      ]
+    },
+    {
+      "title": "Im Büro",
+      "situation": "Yeni görev ve deadline konuşması.",
+      "messages": [
+        {"role": "assistant", "de": "Können Sie den Bericht bis Freitag fertigstellen?", "tr": "Raporu Cuma gününe kadar bitirebilir misiniz?"},
+        {"role": "user", "de": "Das ist möglich, aber ich brauche die aktuellen Daten.", "tr": "Mümkün, ama güncel verilere ihtiyacım var."},
+        {"role": "assistant", "de": "Ich schicke Ihnen die Datei sofort per E-Mail.", "tr": "Dosyayı size hemen e-posta ile gönderiyorum."},
+        {"role": "user", "de": "Vielen Dank, ich fange sofort damit an.", "tr": "Teşekkürler, hemen başlıyorum."}
+      ]
+    },
+    {
+      "title": "In der Bibliothek",
+      "situation": "Kitap ödünç alma ve iade.",
+      "messages": [
+        {"role": "assistant", "de": "Haben Sie Ihren Bibliotheksausweis dabei?", "tr": "Kütüphane kartınız yanınızda mı?"},
+        {"role": "user", "de": "Ja, hier ist er. Ich möchte dieses Buch ausleihen.", "tr": "Evet, işte burada. Bu kitabı ödünç almak istiyorum."},
+        {"role": "assistant", "de": "Sie können es für vier Wochen behalten.", "tr": "Dört hafta boyunca tutabilirsiniz."},
+        {"role": "user", "de": "Das reicht mir. Wo kann ich es abgeben?", "tr": "Bu bana yeter. Nereye iade edebilirim?"}
+      ]
+    },
+    {
+      "title": "Beim Vorstellungsgespräch",
+      "situation": "İş tecrübesi üzerine konuşma.",
+      "messages": [
+        {"role": "assistant", "de": "Warum möchten Sie bei uns arbeiten?", "tr": "Neden bizimle çalışmak istiyorsunuz?"},
+        {"role": "user", "de": "Ich habe viel Erfahrung in diesem Bereich ve mag Ihr Unternehmen.", "tr": "Bu alanda çok tecrübem var ve şirketinizi beğeniyorum."},
+        {"role": "assistant", "de": "Was sind Ihre Stärken?", "tr": "Güçlü yönleriniz nelerdir?"},
+        {"role": "user", "de": "Ich bin sehr teamfähig ve lerne schnell.", "tr": "Takım çalışmasına yatkınım ve hızlı öğrenirim."}
+      ]
+    },
+    {
+      "title": "In der Bank",
+      "situation": "Hesap açma ve kart işlemleri.",
+      "messages": [
+        {"role": "assistant", "de": "Guten Tag! Ich möchte ein Girokonto eröffnen.", "tr": "İyi günler! Bir vadesiz hesap açmak istiyorum."},
+        {"role": "user", "de": "Gerne. Ich brauche dazu Ihren Ausweis.", "tr": "Memnuniyetle. Bunun için kimliğinize ihtiyacım var."},
+        {"role": "assistant", "de": "Bekomme ich auch eine Bankkarte?", "tr": "Banka kartı da alacak mıyım?"},
+        {"role": "user", "de": "Ja, sie wird Ihnen in den nächsten Tagen per Post zugeschickt.", "tr": "Evet, önümüzdeki günlerde posta ile size gönderilecektir."}
+      ]
+    },
+    {
+      "title": "Auf dem Bürgeramt",
+      "situation": "İkametgah kaydı (Anmeldung).",
+      "messages": [
+        {"role": "assistant", "de": "Ich möchte mich anmelden. Ich bin neu in der Stadt.", "tr": "Kayıt yaptırmak istiyorum. Şehirde yeniyim."},
+        {"role": "user", "de": "Hier ist das Formular. Haben Sie Ihren Mietvertrag dabei?", "tr": "İşte form. Kira sözleşmeniz yanınızda mı?"},
+        {"role": "assistant", "de": "Ja, hier sind alle Unterlagen.", "tr": "Evet, tüm belgeler burada."},
+        {"role": "user", "de": "Gut, ich trage das sofort in das System ein.", "tr": "Güzel, bunu hemen sisteme giriyorum."}
       ]
     }
   ]
